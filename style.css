@@ -1,0 +1,7 @@
+#face{
+    display:block;
+    position: relative;
+    width: 120px;
+    height: auto;
+    border-radius: 30px;
+}
