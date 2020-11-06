@@ -1,4 +1,40 @@
+#title_text{
+    display: block;
+    position: absolute;
+    width: 100%;
+    opacity: 1;
+    color: rgb(21, 211, 53);
+    font-size: 25px;
+    top: 195px;
+    z-index: 3;
+    text-align: center;
+}
+#title_text_type{
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    top: 180px;
+    opacity: 0.1;
+    left: 0;
+    z-index: 2;
+    background-color: rgb(123, 233, 123);
+}
+
+#outer_title_text{
+    margin-top: 20px;
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 320px;
+    background-color: transparent;
+}
 
 .just{
     text-align: justify;
+}
+.dummy_both{
+    display: block;
+    position: relative;
+    clear: both;
 }
